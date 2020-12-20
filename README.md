@@ -1,0 +1,2 @@
+# EmojiInterpretorMock
+Created with CodeSandbox
